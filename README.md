@@ -1,4 +1,4 @@
-# Proje Başlığı
+# Derin Öğrenme Final Projesi
 
 :information_source: **Dersin Kodu:** [YAZ20411](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
 :information_source: **Dersin Adı:** [DERİN ÖĞRENME](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
@@ -10,15 +10,14 @@
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1190505046  | Mustafa AKSAK			| Yazılım Mühendisliği     | PROJE_21       | [Github](https://github.com/balfatih)     |
-| 1190505062  | Alican Bekmez     | Yazılım Mühendisliği     | PROJE_21       | [Github](https://github.com/balfatih)     |
+| 1190505046  | Mustafa AKSAK			| Yazılım Mühendisliği     | PROJE_21       | [Github]((https://github.com/mustafaaksak))     |
+| 1190505062  | Alican Bekmez     | Yazılım Mühendisliği     | PROJE_21       | [Github]((https://github.com/Aliican16))     |
 
 ---
 
 ## Proje Açıklaması
 
-Buraya proje ile ilgili genel bir açıklama ekleyin. Projenizin amacı, kapsamı, kullanılan teknolojiler ve belki de projenin nasıl çalıştırılacağı gibi önemli bilgileri içermelidir.
-
+Projemiz pnuomenia hastalığına ait hastaların x-ray görüntülerinin bakteriyel mi viral mi olduğuna dair bir veri seti içermektedir. Amacımız bu veri setindeki bilgileri kullanarak hastalığa dair insanlara bazı bilgiler ulaştırmaktır.
 ---
 
 ## Proje Dosya Yapısı
