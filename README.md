@@ -10,7 +10,7 @@
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1190505046  | Mustafa AKSAK			| Yazılım Mühendisliği     | PROJE_21       | [Github]((https://github.com/mustafaaksak))     |
-| 1190505062  | Alican Bekmez     | Yazılım Mühendisliği     | PROJE_21       | [Github]((https://github.com/Aliican16))     |
+| 1190505046  | Mustafa AKSAK			| Yazılım Mühendisliği     | PROJE_21       | [Github]([https://github.com/mustafaaksak])     |
+| 1190505062  | Alican Bekmez     | Yazılım Mühendisliği     | PROJE_21       | [Github]([https://github.com/Aliican16])     |
 
 
